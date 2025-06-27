@@ -160,7 +160,7 @@
 /* Mobile Size */
 @media screen and (max-width: 360px) {
   body {
-    padding: 0.8rem;
+    padding: x-small;
   }
 
   .hero-name {
